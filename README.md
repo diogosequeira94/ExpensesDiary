@@ -3,7 +3,7 @@ Organizze Clone App Concluded
 
 
 <h4> About the App </h4>
-Cocktial Application with Cocktial Recipes, Bar tips, a Bar Manual, using Firebase and a login system so the user can create and share their own cocktials
+Simple clone of the famous app organizze. You can add expenses, payments etc, and track your financial balance easier. You can create different account and every changes will be saved into a firebase database.
 </br>
 <h4> Libraries / Dependencies Used </h4>
 
@@ -15,15 +15,8 @@ Cocktial Application with Cocktial Recipes, Bar tips, a Bar Manual, using Fireba
 <h4> Demo </h4>
 </br>
 
-![Sociologia App](demo/20190424_174608.gif)
+![Organizze App](demo/20190424_215917.gif)
 
 
-<h4> What I Learned with this project </h4>
-
-
-•	Learnt how to use Firebase functionalities: Authentication, Real-time Database. </br>
-•	Built a login system where user can save their preferences. </br>
-•	Learnt how to optimize layout with a friendly user interface. </br>
-•	Implementation of many different Libraries, Recyclerviews and the best practices sending data between activities.
 
 
